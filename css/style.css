@@ -594,7 +594,7 @@ main {
 }
 .sm-link-deco a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .eighth-sm-list {
     margin-top: 50px;
@@ -677,7 +677,7 @@ main {
 }
 .link-deco a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .link-deco p {
     margin-top: -15px;
